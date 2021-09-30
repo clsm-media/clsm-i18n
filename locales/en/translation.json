@@ -1,7 +1,12 @@
 {
   "PAGES": {
-    "HOMEPAGE": {
-      "HEAD_TITLE": "Welcome"
+    "HOME": {
+      "HEAD_TITLE": "Feed",
+      "TABS": {
+        "UPCOMING": "Upcoming",
+        "LIVE": "Live",
+        "COMPLETED": "Completed"
+      }
     },
     "WELCOME": {
       "HEAD_TITLE": "Welcome",
