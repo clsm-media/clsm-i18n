@@ -1,0 +1,240 @@
+{
+  "PAGES": {
+    "HOMEPAGE": {
+      "HEAD_TITLE": "Welcome"
+    },
+    "WELCOME": {
+      "HEAD_TITLE": "Welcome",
+      "WELCOME_TEXT": "Talk & Listen motorsports together, anywhere.",
+      "ACTIONS": {
+        "SIGN_UP": "Sign Up",
+        "SIGN_IN": "Sign In"
+      }
+    },
+    "AUTH": {
+      "TABS": {
+        "SIGN_IN": "Sign In",
+        "SIGN_UP": "Sign Up"
+      },
+      "SIGN_IN": {
+        "HEAD_TITLE": "Sign In"
+      },
+      "SIGN_UP": {
+        "HEAD_TITLE": "Sign Up"
+      },
+      "RESET_PASSWORD_CALLBACK": {
+        "SUCCESS": "Your password was successfully reset.",
+        "ERROR": "Sorry, there was a problem resetting your password."
+      }
+    },
+    "FORGOT_PASSWORD": {
+      "HEAD_TITLE": "Forgot Password",
+      "TITLE": "Forgot password?",
+      "DESCRIPTION": "Enter your email to receive a reset link",
+      "FORM": {
+        "EMAIL_LABEL": "Email",
+        "EMAIL_PLACEHOLDER": "youremail@email.com"
+      },
+      "ACTIONS": {
+        "SEND_PASSWORD_RESET_CTA": "Send Password Reset"
+      },
+      "CONFIRMATION_DRAWER": {
+        "TITLE": "Check your email",
+        "DESCRIPTION": "We have sent a password recovery instructions to your email",
+        "DID_NOT_RECEIVE_EMAIL": "Didn´t receive an email?",
+        "RESEND_CTA": "Resend Email",
+        "RESEND_CTA_WAIT": "Resend in {{seconds}}s"
+      }
+    },
+    "RESET_PASSWORD": {
+      "HEAD_TITLE": "New Password",
+      "TITLE": "New password",
+      "DESCRIPTION": "Enter your new password",
+      "FORM": {
+        "PASSWORD_LABEL": "Password",
+        "PASSWORD_PLACEHOLDER": "Your password",
+        "REPEAT_PASSWORD_LABEL": "Repeat password"
+      },
+      "ACTIONS": {
+        "RESET_PASSWORD_CTA": "Reset Password"
+      },
+      "TOAST": {
+        "RESET_PASSWORD_PROMISE": "Password is being updated",
+        "RESET_PASSWORD_SUCCESS": "Password has been updated successfully.",
+        "RESET_PASSWORD_ERROR": "Sorry! We could not update the password."
+      }
+    },
+    "CHANGE_PASSWORD": {
+      "TITLE": "New password",
+      "DESCRIPTION": "Enter your new password for the email",
+      "FORM": {
+        "PASSWORD_LABEL": "New password",
+        "PASSWORD_PLACEHOLDER": "Your password",
+        "REPEAT_PASSWORD_LABEL": "Repeat password"
+      },
+      "ACTIONS": {
+        "CHANGE_PASSWORD_CTA": "Reset Password"
+      },
+      "TOAST": {
+        "CHANGE_PASSWORD_PROMISE": "Password is being updated",
+        "CHANGE_PASSWORD_SUCCESS": "Password has been updated successfully.",
+        "CHANGE_PASSWORD_ERROR": "Sorry! We could not update the password."
+      }
+    },
+    "PROFILE": {
+      "HEAD_TITLE": "Profile",
+      "OPTIONS": {
+        "TITLE": "Options",
+        "EDIT_PROFILE_CTA": "Edit Profile",
+        "CHANGE_PASSWORD_CTA": "Change password",
+        "DELETE_ACCOUNT_CTA": "Delete account",
+        "LOGOUT_CTA": "Logout"
+      },
+      "DELETE_ACCOUNT": {
+        "TITLE": "Delete account",
+        "EDIT_PROFILE_CTA": "Edit Profile",
+        "DELETE_ACCOUNT_CTA": "Delete",
+        "DESCRIPTION": "Do you really want to delete your account? This process cannot be undone.",
+        "TOAST": {
+          "DELETE_ACCOUNT_PROMISE": "Account is being deleted",
+          "DELETE_ACCOUNT_SUCCESS": "Account has been deleted successfully.",
+          "DELETE_ACCOUNT_ERROR": "Sorry! We could not delete the account."
+        }
+      }
+    },
+    "EDIT_PROFILE": {
+      "HEAD_TITLE": "Edit Profile",
+      "FORM": {
+        "FIRST_NAME_LABEL": "First Name*",
+        "FIRST_NAME_PLACEHOLDER": "Your name",
+        "LAST_NAME_LABEL": "Last Name*",
+        "LAST_NAME_PLACEHOLDER": "Your last name",
+        "EMAIL_LABEL": "Email",
+        "BIO_LABEL": "Bio",
+        "BIO_PLACEHOLDER": "Your bio"
+      },
+      "ACTIONS": {
+        "UPDATE_PROFILE_CTA": "Update profile"
+      },
+      "LEAVING_DRAWER": {
+        "TITLE": "Confirm discard changes",
+        "DESCRIPTION": "Are you sure you want to discard profile changes?",
+        "DISCARD_CHANGES_CTA": "Discard changes"
+      },
+      "CHANGE_PROFILE_PICTURE_OPTIONS": {
+        "TITLE": "Change picture",
+        "TAKE_PHOTO": "Take photo",
+        "SELECT_FROM_GALLERY": "Select from gallery"
+      },
+      "TOAST": {
+        "LOADING": "Your profile is being updated",
+        "SUCCESS": "Your profile has been updated successfully",
+        "ERROR": "Sorry! We could not update your profile."
+      }
+    }
+  },
+  "COMPONENTS": {
+    "PASSWORD_VALIDATION": {
+      "VALIDATION_MINIMUM_CHARACTERS": "8 characters minimum",
+      "VALIDATION_MAXIMUM_CHARACTERS": "30 characters maximum",
+      "VALIDATION_CONTAINS_UPPERCASE": "1 Uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "1 number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "1 special character (@#!$%&)"
+    },
+    "SIGN_UP_FLOW": {
+      "OR": "or",
+      "FORM": {
+        "FIRST_NAME_LABEL": "Name",
+        "FIRST_NAME_PLACEHOLDER": "Your name",
+        "LAST_NAME_LABEL": "Last Name",
+        "LAST_NAME_PLACEHOLDER": "Your last name",
+        "EMAIL_LABEL": "Email",
+        "EMAIL_PLACEHOLDER": "youremail@email.com",
+        "PASSWORD_LABEL": "Password",
+        "PASSWORD_PLACEHOLDER": "Your password"
+      },
+      "BUTTONS": {
+        "NEXT_LABEL": "Next",
+        "CREATE_ACCOUNT_CTA_LABEL": "Create Account",
+        "CONNECT_WITH_SOCIAL_ACCOUNT_CTA_LABEL": "Connect with your social media account",
+        "CONNECT_WITH_EMAIL_CTA_LABEL": "Connect with your email address",
+        "APPLE_LABEL": "Apple ID",
+        "GOOGLE_LABEL": "Google"
+      },
+      "TOAST": {
+        "SIGN_UP_PROMISE": "Your account is being created",
+        "SIGN_UP_SUCCESS": "Account has been created successfully",
+        "SIGN_UP_ERROR": "Sorry! We could not create the account"
+      },
+      "CONFIRMATION_DRAWER": {
+        "TITLE": "Check your email",
+        "DESCRIPTION": "We have sent account verification instructions to your email"
+      }
+    },
+    "SIGN_IN_FLOW": {
+      "OR": "or",
+      "FORM": {
+        "EMAIL_LABEL": "Email",
+        "EMAIL_PLACEHOLDER": "youremail@email.com",
+        "PASSWORD_LABEL": "Password",
+        "PASSWORD_PLACEHOLDER": "Your password",
+        "REMEMBER_ME_LABEL": "Remember me"
+      },
+      "BUTTONS": {
+        "SIGN_IN_CTA_LABEL": "Sign In",
+        "CONNECT_WITH_SOCIAL_ACCOUNT_CTA_LABEL": "Sign in with social account",
+        "CONNECT_WITH_EMAIL_CTA_LABEL": "Sign in with email",
+        "FORGOT_PASSWORD_LABEL": "Forgot Password?",
+        "APPLE_LABEL": "Apple ID",
+        "GOOGLE_LABEL": "Google"
+      }
+    }
+  },
+  "ERRORS": {
+    "SIGN_UP": {
+      "FIRST_NAME_REQUIRED": "The name is required",
+      "LAST_NAME_REQUIRED": "The last name is required",
+      "EMAIL_REQUIRED": "The email is required",
+      "PASSWORD_REQUIRED": "The password is required",
+      "INVALID_EMAIL": "The email is not valid",
+      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character"
+    },
+    "SIGN_IN": {
+      "EMAIL_REQUIRED": "The email is required",
+      "INVALID_EMAIL": "The email is not valid",
+      "PASSWORD_REQUIRED": "The password is required",
+      "INVALID_CREDENTIALS": "Invalid credentials"
+    },
+    "FORGOT_PASSWORD": {
+      "EMAIL_REQUIRED": "The email is required",
+      "INVALID_EMAIL": "The email is not valid",
+      "SOMETHING_WENT_WRONG": "Sorry, something went wrong. Try again later"
+    },
+    "RESET_PASSWORD": {
+      "PASSWORD_REQUIRED": "The password is required",
+      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character",
+      "PASSWORDS_DONT_MATCH": "Passwords do not match"
+    },
+    "CHANGE_PASSWORD": {
+      "PASSWORD_REQUIRED": "The password is required",
+      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character",
+      "PASSWORDS_DONT_MATCH": "Passwords do not match"
+    },
+    "EDIT_PROFILE": {
+      "FIRST_NAME_REQUIRED": "The name is required",
+      "LAST_NAME_REQUIRED": "The last name is required"
+    }
+  }
+}
