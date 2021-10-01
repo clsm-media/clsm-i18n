@@ -193,6 +193,13 @@
         "APPLE_LABEL": "Apple ID",
         "GOOGLE_LABEL": "Google"
       }
+    },
+    "CAMERA_MODAL": {
+      "CANCEL_CTA": "Cancel"
+    },
+    "CROPPING_MODAL": {
+      "CHOOSE_CTA": "Choose",
+      "CANCEL_CTA": "Cancel"
     }
   },
   "ERRORS": {
