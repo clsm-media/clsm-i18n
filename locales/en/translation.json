@@ -146,6 +146,27 @@
       "VALIDATION_CONTAINS_NUMBER": "1 number",
       "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "1 special character (@#!$%&)"
     },
+    "CARD": {
+      "MEMBERS_SEPARATOR": {
+        "COMA": ", ",
+        "AND": ", and "
+      },
+      "STATUS": {
+        "LIVE": "LIVE",
+        "COMPLETED": "COMPLETED"
+      },
+      "PRESENTERS": {
+        "NAME": "Presented by {{name}}"
+      },
+      "FANS": {
+        "FANS": "fans",
+        "PEOPLE_INTERESTED": "people interested"
+      },
+      "BUTTONS": {
+        "JOIN": "Join",
+        "REPLAY": "Replay"
+      }
+    },
     "SIGN_UP_FLOW": {
       "OR": "or",
       "FORM": {
