@@ -221,6 +221,11 @@
     "CROPPING_MODAL": {
       "CHOOSE_CTA": "Choose",
       "CANCEL_CTA": "Cancel"
+    },
+    "FEED_SEPARATOR": {
+      "STREAMING_TODAY": "Streaming today",
+      "STREAMING_TOMORROW": "Streaming tomorrow",
+      "STREAMING_FILL": "Streaming {{date}}"
     }
   },
   "ERRORS": {
