@@ -190,7 +190,8 @@
       "TOAST": {
         "SIGN_UP_PROMISE": "Your account is being created",
         "SIGN_UP_SUCCESS": "Account has been created successfully",
-        "SIGN_UP_ERROR": "Sorry! We could not create the account"
+        "SIGN_UP_ERROR": "Sorry! We could not create the account",
+        "SIGN_UP_ERROR_USER_EXISTS": "It seems that this email has been already registered"
       },
       "CONFIRMATION_DRAWER": {
         "TITLE": "Check your email",
