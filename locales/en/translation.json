@@ -149,7 +149,7 @@
     "CARD": {
       "MEMBERS_SEPARATOR": {
         "COMA": ", ",
-        "AND": ", and "
+        "AND": "and "
       },
       "STATUS": {
         "LIVE": "LIVE",
