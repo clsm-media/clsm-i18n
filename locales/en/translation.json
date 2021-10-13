@@ -182,8 +182,8 @@
       "BUTTONS": {
         "NEXT_LABEL": "Next",
         "CREATE_ACCOUNT_CTA_LABEL": "Create Account",
-        "CONNECT_WITH_SOCIAL_ACCOUNT_CTA_LABEL": "Connect with your social media account",
-        "CONNECT_WITH_EMAIL_CTA_LABEL": "Connect with your email address",
+        "CONNECT_WITH_SOCIAL_ACCOUNT_CTA_LABEL": "Sign up with social account",
+        "CONNECT_WITH_EMAIL_CTA_LABEL": "Sign up with email",
         "APPLE_LABEL": "Apple ID",
         "GOOGLE_LABEL": "Google"
       },
