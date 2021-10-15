@@ -191,7 +191,7 @@
         "SIGN_UP_PROMISE": "Your account is being created",
         "SIGN_UP_SUCCESS": "Account has been created successfully",
         "SIGN_UP_ERROR": "Sorry! We could not create the account",
-        "SIGN_UP_ERROR_USER_EXISTS": "It seems that this email has been already registered",
+        "SIGN_UP_ERROR_USER_EXISTS": "It seems that this email has already been registered",
         "VERIFICATION_ERROR": "It seems that this email has already been verified"
       },
       "CONFIRMATION_DRAWER": {
