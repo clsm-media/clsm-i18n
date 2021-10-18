@@ -119,7 +119,8 @@
         "BIO_PLACEHOLDER": "Your bio"
       },
       "ACTIONS": {
-        "UPDATE_PROFILE_CTA": "Update profile"
+        "UPDATE_PROFILE_CTA": "Update profile",
+        "UPDATE_INTERESTS_CTA": "Interests"
       },
       "LEAVING_DRAWER": {
         "TITLE": "Confirm discard changes",
@@ -228,6 +229,11 @@
       "STREAMING_TODAY": "Streaming today",
       "STREAMING_TOMORROW": "Streaming tomorrow",
       "STREAMING_FILL": "Streaming {{date}}"
+    },
+    "INTERESTS_BOTTOM_DRAWER": {
+      "TITLE": "What are you into?",
+      "SUBMIT_CTA": "Add to profile",
+      "SUBMIT_CTA_SELECTED_AMOUNT": "({{amount}} selected)"
     }
   },
   "ERRORS": {
