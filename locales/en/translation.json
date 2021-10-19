@@ -256,7 +256,8 @@
       "EMAIL_REQUIRED": "Email is required",
       "INVALID_EMAIL": "Email not valid",
       "PASSWORD_REQUIRED": "Password is required",
-      "INVALID_CREDENTIALS": "Invalid credentials"
+      "INVALID_CREDENTIALS": "Invalid credentials",
+      "USER_NOT_VERIFIED": "It seems that this account hasn’t been validated. Check your email."
     },
     "FORGOT_PASSWORD": {
       "EMAIL_REQUIRED": "Email is required",
