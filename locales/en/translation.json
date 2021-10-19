@@ -136,6 +136,9 @@
         "LOADING": "Your profile is being updated",
         "SUCCESS": "Your profile has been updated successfully",
         "ERROR": "Sorry! We could not update your profile."
+      },
+      "INTERESTS": {
+        "TITLE": "My Interests"
       }
     }
   },
