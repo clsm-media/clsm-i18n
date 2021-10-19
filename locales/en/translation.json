@@ -105,6 +105,10 @@
           "DELETE_ACCOUNT_SUCCESS": "Account has been deleted successfully.",
           "DELETE_ACCOUNT_ERROR": "Sorry! We could not delete the account."
         }
+      },
+      "TITLES": {
+        "BIO": "Bio",
+        "INTERESTS": "My Insterests"
       }
     },
     "EDIT_PROFILE": {
