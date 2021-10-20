@@ -144,6 +144,10 @@
       "INTERESTS": {
         "TITLE": "My Interests"
       }
+    },
+    "STREAM": {
+      "HEAD_TITLE": "Conversation",
+      "TOPIC_HEADLINE": "Topic: {{currentTopic}}"
     }
   },
   "COMPONENTS": {
