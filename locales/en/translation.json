@@ -124,7 +124,7 @@
       },
       "ACTIONS": {
         "UPDATE_PROFILE_CTA": "Update profile",
-        "UPDATE_INTERESTS_CTA": "Interests"
+        "UPDATE_INTERESTS_CTA": "Add Interests"
       },
       "LEAVING_DRAWER": {
         "TITLE": "Confirm discard changes",
