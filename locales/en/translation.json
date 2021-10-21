@@ -147,7 +147,8 @@
     },
     "STREAM": {
       "HEAD_TITLE": "Conversation",
-      "TOPIC_HEADLINE": "Topic: {{currentTopic}}"
+      "TOPIC_HEADLINE": "Topic: {{currentTopic}}",
+      "REACT_LABEL": "React"
     }
   },
   "COMPONENTS": {
