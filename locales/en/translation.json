@@ -257,7 +257,7 @@
       "LAST_NAME_MAX_LENGTH": "Last name must not exceed {{characters}} characters",
       "EMAIL_REQUIRED": "Email is required",
       "PASSWORD_REQUIRED": "Password is required",
-      "INVALID_EMAIL": "Email not valid",
+      "INVALID_EMAIL": "Email is not valid",
       "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
       "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
       "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
