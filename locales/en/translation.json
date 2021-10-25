@@ -247,6 +247,11 @@
       "SUBMIT_CTA": "Add to profile",
       "SUBMIT_CTA_SELECTED_AMOUNT": "({{amount}} selected)",
       "NO_RESULTS": "No Results"
+    },
+    "STREAM_BOTTOM_DRAWER": {
+      "TOPICS_LABEL": "Topics", 
+      "ACTIVITY_LABEL": "Activity",
+      "ROOM_INFO_LABEL": "Room info"
     }
   },
   "ERRORS": {
