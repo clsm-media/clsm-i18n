@@ -45,7 +45,7 @@
       },
       "CONFIRMATION_DRAWER": {
         "TITLE": "Check your email",
-        "DESCRIPTION": "We have sent a password recovery instructions to your email",
+        "DESCRIPTION": "We have sent you password recovery instructions to your email",
         "DID_NOT_RECEIVE_EMAIL": "Didn´t receive an email?",
         "RESEND_CTA": "Resend Email",
         "RESEND_CTA_WAIT": "Resend in {{seconds}}s"
