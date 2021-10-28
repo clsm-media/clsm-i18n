@@ -258,6 +258,12 @@
       "TOPICS_LABEL": "Topics", 
       "ACTIVITY_LABEL": "Activity",
       "ROOM_INFO_LABEL": "Room info"
+    },
+    "FOLLOWS_BANNER": {
+      "FOLLOWINGS_LABEL": "Followers",
+      "FOLLOWERS_LABEL": "Followings",
+      "FOLLOW_CTA": "Follow",
+      "UNFOLLOW_CTA": "Following"
     }
   },
   "ERRORS": {
