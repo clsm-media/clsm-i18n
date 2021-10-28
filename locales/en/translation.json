@@ -108,7 +108,13 @@
       },
       "TITLES": {
         "BIO": "Bio",
-        "INTERESTS": "My Interests"
+        "INTERESTS": "My Insterests",
+        "EVENTS": "Events"
+      },
+      "TABS":{
+        "UPCOMING": "Upcoming",
+        "SAVED": "Saved",
+        "HISTORY": "History"
       }
     },
     "EDIT_PROFILE": {
