@@ -279,11 +279,11 @@
       "EMAIL_REQUIRED": "Email is required",
       "PASSWORD_REQUIRED": "Password is required",
       "INVALID_EMAIL": "Email is not valid",
-      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
-      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
-      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
-      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
-      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character"
+      "VALIDATION_MINIMUM_CHARACTERS": "Password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "Password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "Password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "Password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "Password must contain a special character"
     },
     "SIGN_IN": {
       "EMAIL_REQUIRED": "Email is required",
@@ -299,20 +299,20 @@
     },
     "RESET_PASSWORD": {
       "PASSWORD_REQUIRED": "Password is required",
-      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
-      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
-      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
-      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
-      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character",
+      "VALIDATION_MINIMUM_CHARACTERS": "Password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "Password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "Password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "Password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "Password must contain a special character",
       "PASSWORDS_DONT_MATCH": "Passwords do not match"
     },
     "CHANGE_PASSWORD": {
       "PASSWORD_REQUIRED": "Password is required",
-      "VALIDATION_MINIMUM_CHARACTERS": "The password must satisfy the minimum length constraint",
-      "VALIDATION_MAXIMUM_CHARACTERS": "The password must satisfy the maximum length constraint",
-      "VALIDATION_CONTAINS_UPPERCASE": "The password must contain an uppercase letter",
-      "VALIDATION_CONTAINS_NUMBER": "The password must contain a number",
-      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "The password must contain a special character",
+      "VALIDATION_MINIMUM_CHARACTERS": "Password must satisfy the minimum length constraint",
+      "VALIDATION_MAXIMUM_CHARACTERS": "Password must satisfy the maximum length constraint",
+      "VALIDATION_CONTAINS_UPPERCASE": "Password must contain an uppercase letter",
+      "VALIDATION_CONTAINS_NUMBER": "Password must contain a number",
+      "VALIDATION_CONTAINS_SPECIAL_CHARACTER": "Password must contain a special character",
       "PASSWORDS_DONT_MATCH": "Passwords do not match"
     },
     "EDIT_PROFILE": {
