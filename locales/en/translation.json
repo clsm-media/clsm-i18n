@@ -158,7 +158,12 @@
     "STREAM": {
       "HEAD_TITLE": "Conversation",
       "TOPIC_HEADLINE": "Topic: {{currentTopic}}",
-      "REACT_LABEL": "React"
+      "REACT_LABEL": "React",
+      "MUTED_LABEL": "Muted",
+      "QUESTION_LABEL": "Question",
+      "TOPIC_LABEL": "Topic",
+      "ISSUE_LABEL": "Issue",
+      "SHARE_LINK": "Im listening {{link}}"
     }
   },
   "COMPONENTS": {
