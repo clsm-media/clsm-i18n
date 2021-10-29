@@ -115,6 +115,10 @@
         "UPCOMING": "Upcoming",
         "SAVED": "Saved",
         "HISTORY": "History"
+      },
+      "USER_HISTORY_LIST": {
+        "CURRENTLY_LISTENING_TO": "Currently listening to",
+        "HISTORY": "History"
       }
     },
     "EDIT_PROFILE": {
