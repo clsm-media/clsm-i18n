@@ -111,7 +111,7 @@
         "INTERESTS": "My Insterests",
         "EVENTS": "Events"
       },
-      "TABS":{
+      "TABS": {
         "UPCOMING": "Upcoming",
         "SAVED": "Saved",
         "HISTORY": "History"
@@ -164,6 +164,12 @@
       "TOPIC_LABEL": "Topic",
       "ISSUE_LABEL": "Issue",
       "SHARE_LINK": "Im listening {{link}}"
+    },
+    "FOLLOW": {
+      "TABS": {
+        "FOLLOWERS": "({{amount}} Followers)",
+        "FOLLOWINGS": "({{amount}} Followings)"
+      }
     }
   },
   "COMPONENTS": {
@@ -264,7 +270,7 @@
       "NO_RESULTS": "No Results"
     },
     "STREAM_BOTTOM_DRAWER": {
-      "TOPICS_LABEL": "Topics", 
+      "TOPICS_LABEL": "Topics",
       "ACTIVITY_LABEL": "Activity",
       "ROOM_INFO_LABEL": "Room info"
     },
@@ -281,6 +287,10 @@
         "LIVE_CTA": "Join",
         "COMPLETED_CTA": "Join"
       }
+    },
+    "USER_CARD": {
+      "FOLLOW": "Following",
+      "UNFOLLOW": "Follow"
     }
   },
   "ERRORS": {
