@@ -273,6 +273,14 @@
       "FOLLOWERS_LABEL": "Followings",
       "FOLLOW_CTA": "Follow",
       "UNFOLLOW_CTA": "Following"
+    },
+    "CONVERSATION_DETAILS_BOTTOM_DRAWER": {
+      "HOSTS_LABEL": "Hosts",
+      "ACTIONS": {
+        "UPCOMING_CTA": "Join",
+        "LIVE_CTA": "Join",
+        "COMPLETED_CTA": "Join"
+      }
     }
   },
   "ERRORS": {
