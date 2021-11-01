@@ -166,6 +166,7 @@
       "SHARE_LINK": "Im listening {{link}}"
     },
     "FOLLOW": {
+      "SEARCH_PLACEHOLDER": "Search",
       "TABS": {
         "FOLLOWERS": "({{amount}} Followers)",
         "FOLLOWINGS": "({{amount}} Followings)"
