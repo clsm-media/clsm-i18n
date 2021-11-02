@@ -111,6 +111,10 @@
         "INTERESTS": "My Interests",
         "EVENTS": "Events"
       },
+      "BUTTONS":{
+        "SHOW_LESS":"Show less",
+        "SHOW_MORE":"Show more"
+      },
       "TABS": {
         "UPCOMING": "Upcoming",
         "SAVED": "Saved",
