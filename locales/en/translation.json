@@ -273,7 +273,11 @@
     "STREAM_BOTTOM_DRAWER": {
       "TOPICS_LABEL": "Topics",
       "ACTIVITY_LABEL": "Activity",
-      "ROOM_INFO_LABEL": "Room info"
+      "ROOM_INFO_LABEL": "Room info",
+      "TOPIC_CARD": {
+        "VOTE_SINGULAR_LABEL": "Vote",
+        "VOTE_PLURAL_LABEL": "Votes"
+      }
     },
     "FOLLOWS_BANNER": {
       "FOLLOWINGS_LABEL": "Followers",
