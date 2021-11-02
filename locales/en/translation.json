@@ -206,6 +206,9 @@
         "REPLAY": "Replay"
       }
     },
+    "SEARCH": {
+      "SEARCH_TEXT_INPUT_PLACEHOLDER": "Search"
+    },
     "SIGN_UP_FLOW": {
       "OR": "or",
       "FORM": {
