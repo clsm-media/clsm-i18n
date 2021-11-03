@@ -5,6 +5,7 @@
       "TABS": {
         "UPCOMING": "Upcoming",
         "LIVE": "Live",
+        "LIVE_UPCOMING": "Live / Upcoming",
         "COMPLETED": "Completed"
       }
     },
