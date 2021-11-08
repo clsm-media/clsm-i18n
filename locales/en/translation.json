@@ -174,8 +174,8 @@
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
       "TABS": {
-        "FOLLOWERS": "({{amount}} Followers)",
-        "FOLLOWINGS": "({{amount}} Followings)"
+        "FOLLOWERS": "{{amount}} Followers",
+        "FOLLOWINGS": "{{amount}} Followings"
       }
     }
   },
@@ -305,6 +305,9 @@
     "USER_CARD": {
       "FOLLOW": "Following",
       "UNFOLLOW": "Follow"
+    },
+    "EMPTY_STATE": {
+      "TITLE": "No Result."
     }
   },
   "ERRORS": {
