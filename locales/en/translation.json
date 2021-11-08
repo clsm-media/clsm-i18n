@@ -168,7 +168,8 @@
       "QUESTION_LABEL": "Question",
       "TOPIC_LABEL": "Topic",
       "ISSUE_LABEL": "Issue",
-      "SHARE_LINK": "Im listening {{link}}"
+      "SHARE_LINK": "Im listening {{link}}",
+      "FANS_AMMOUNT": "{{fansAmount}} fans"
     },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
