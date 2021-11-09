@@ -308,6 +308,10 @@
     },
     "EMPTY_STATE": {
       "TITLE": "No Result."
+    },
+    "SEARCH_LIST": {
+      "ALL": "All",
+      "FAVORITES": "Favorites"
     }
   },
   "ERRORS": {
