@@ -164,6 +164,7 @@
       "HEAD_TITLE": "Conversation",
       "TOPIC_HEADLINE": "Topic: {{currentTopic}}",
       "REACT_LABEL": "React",
+      "CLOSE_LABEL": "Close",
       "MUTED_LABEL": "Muted",
       "QUESTION_LABEL": "Question",
       "TOPIC_LABEL": "Topic",
