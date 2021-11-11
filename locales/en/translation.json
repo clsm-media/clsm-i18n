@@ -290,8 +290,8 @@
       }
     },
     "FOLLOWS_BANNER": {
-      "FOLLOWINGS_LABEL": "Followers",
-      "FOLLOWERS_LABEL": "Followings",
+      "FOLLOWINGS_LABEL": "Followings",
+      "FOLLOWERS_LABEL": "Followers",
       "FOLLOW_CTA": "Follow",
       "UNFOLLOW_CTA": "Following"
     },
