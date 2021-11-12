@@ -167,7 +167,10 @@
         "BRAND_FAMILY": "Brand’s family"
       },
       "TITLES": {
-        "INTERESTS": "Interests" 
+        "INTERESTS": "Interests",
+        "UPCOMING": "Upcoming",
+        "LIVE": "Live",
+        "COMPLETED": "Completed"
       }
     },
     "STREAM": {
