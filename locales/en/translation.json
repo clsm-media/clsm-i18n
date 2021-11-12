@@ -107,13 +107,6 @@
           "DELETE_ACCOUNT_ERROR": "Sorry! We could not delete the account."
         }
       },
-      "BRAND_PROFILE": {
-        "HEAD_TITLE": "Brand Profile",
-        "TABS": {
-          "CONVERSATIONS": "Conversations",
-          "BRAND_FAMILY": "Brand’s family"
-        }
-      },
       "TITLES": {
         "BIO": "Bio",
         "INTERESTS": "My Interests",
@@ -165,6 +158,16 @@
       },
       "INTERESTS": {
         "TITLE": "My Interests"
+      }
+    },
+    "BRAND_PROFILE": {
+      "HEAD_TITLE": "Brand Profile",
+      "TABS": {
+        "CONVERSATIONS": "Conversations",
+        "BRAND_FAMILY": "Brand’s family"
+      },
+      "TITLES": {
+        "INTERESTS": "Interests" 
       }
     },
     "STREAM": {
