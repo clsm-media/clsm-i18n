@@ -317,6 +317,10 @@
       "FOLLOW": "Following",
       "UNFOLLOW": "Follow"
     },
+    "BRAND_CARD": {
+      "FOLLOWERS": "{{qtyFollowers}} Followers",
+      "FOLLOWING": "{{qtyFollowings}} Following"
+    },
     "EMPTY_STATE": {
       "TITLE": "No Result."
     },
