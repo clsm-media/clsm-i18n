@@ -189,7 +189,7 @@
       "SEARCH_PLACEHOLDER": "Search",
       "TABS": {
         "FOLLOWERS": "{{amount}} Followers",
-        "FOLLOWINGS": "{{amount}} Followings"
+        "FOLLOWINGS": "{{amount}} Following"
       }
     }
   },
@@ -299,11 +299,12 @@
       "ROOM_INFO_LABEL": "Room info",
       "TOPIC_CARD": {
         "VOTE_SINGULAR_LABEL": "Vote",
-        "VOTE_PLURAL_LABEL": "Votes"
+        "VOTE_PLURAL_LABEL": "Votes",
+        "NO_RESULTS": "No Results"
       }
     },
     "FOLLOWS_BANNER": {
-      "FOLLOWINGS_LABEL": "Followings",
+      "FOLLOWINGS_LABEL": "Following",
       "FOLLOWERS_LABEL": "Followers",
       "FOLLOW_CTA": "Follow",
       "UNFOLLOW_CTA": "Following"
@@ -325,7 +326,7 @@
       "FOLLOWING": "{{qtyFollowings}} Following"
     },
     "EMPTY_STATE": {
-      "TITLE": "No Result."
+      "TITLE": "No Results"
     },
     "SEARCH_LIST": {
       "ALL": "All",
