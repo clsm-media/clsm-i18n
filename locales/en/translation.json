@@ -291,7 +291,7 @@
       "TITLE": "What are you into?",
       "SUBMIT_CTA": "Add to profile",
       "SUBMIT_CTA_SELECTED_AMOUNT": "({{amount}} selected)",
-      "NO_RESULTS": "No Results"
+      "NO_RESULTS": "No Results."
     },
     "STREAM_BOTTOM_DRAWER": {
       "TOPICS_LABEL": "Topics",
@@ -300,7 +300,7 @@
       "TOPIC_CARD": {
         "VOTE_SINGULAR_LABEL": "Vote",
         "VOTE_PLURAL_LABEL": "Votes",
-        "NO_RESULTS": "No Results"
+        "NO_RESULTS": "No Results."
       }
     },
     "FOLLOWS_BANNER": {
