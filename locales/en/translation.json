@@ -183,7 +183,12 @@
       "TOPIC_LABEL": "Topic",
       "ISSUE_LABEL": "Issue",
       "SHARE_LINK": "Im listening {{link}}",
-      "FANS_AMMOUNT": "{{fansAmount}} fans"
+      "FANS_AMMOUNT": "{{fansAmount}} fans",
+      "VOTE_FOR_THE_NEXT_TOPIC":"Vote for the next topic",
+      "NEWEST": "Newest",
+      "POPULARITY": "Popularity",
+      "TOPIC_TEXT":"Suggest a topic you’d like to hear discussed. Don’t forget that topics have to follow the",
+      "TOPIC_TEXT_SECOND":"community guidlines."
     },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
