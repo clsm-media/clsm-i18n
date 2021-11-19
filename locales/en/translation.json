@@ -190,6 +190,9 @@
       "TOPIC_TEXT":"Suggest a topic you’d like to hear discussed. Don’t forget that topics have to follow the",
       "TOPIC_TEXT_SECOND":"community guidlines."
     },
+    "LIVE": {
+      "HEAD_TITLE": "Live"
+    },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
       "TABS": {
