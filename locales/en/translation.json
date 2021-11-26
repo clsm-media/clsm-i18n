@@ -179,6 +179,7 @@
       "REACT_LABEL": "React",
       "CLOSE_LABEL": "Close",
       "MUTED_LABEL": "Muted",
+      "DETAILS_LABEL": "Details",
       "QUESTION_LABEL": "Question",
       "TOPIC_LABEL": "Topic",
       "ISSUE_LABEL": "Issue",
@@ -188,7 +189,21 @@
       "NEWEST": "Newest",
       "POPULARITY": "Popularity",
       "TOPIC_TEXT":"Suggest a topic you’d like to hear discussed. Don’t forget that topics have to follow the",
-      "TOPIC_TEXT_SECOND":"community guidlines."
+      "TOPIC_TEXT_SECOND":"community guidlines.",
+      "IS_SPEAKING":"is speaking",
+      "QUESTION_DRAWER_TITLE":"Ask a question or join the conversation",
+      "QUESTION_DRAWER_DESCRIPTION":"The host will need to approve your request. Please be mindful of our community guidelines:",
+      "QUESTION_DRAWER_BUTTON":"I agree",
+      "QUESTION_DRAWER_GUIDELINE_ONE":"Be respectful to others.",
+      "QUESTION_DRAWER_GUIDELINE_TWO":"Remember everyone has the right to have their own opinion.",
+      "QUESTION_DRAWER_GUIDELINE_THREE":"Each conversation has a theme. Please stay on-topic.",
+      "ISSUE_TEXT":"Let us know how we can help!",
+      "ISSUE_TOAST_LOADING":"Your issue is being sent.",
+      "TOPIC_TOAST_EMPTY":  "Please enter a topic.",
+      "ISSUE_TOAST_EMPTY":  "Please enter an issue.",
+      "ISSUE_TOAST_ERROR": "Your issue has not been sent.",
+      "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully."
+      
     },
     "LIVE": {
       "HEAD_TITLE": "Live"
