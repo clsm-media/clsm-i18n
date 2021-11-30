@@ -202,8 +202,8 @@
       "TOPIC_TOAST_EMPTY":  "Please enter a topic.",
       "ISSUE_TOAST_EMPTY":  "Please enter an issue.",
       "ISSUE_TOAST_ERROR": "Your issue has not been sent.",
-      "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully."
-      
+      "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully.",
+      "POSTED_TOPIC": "You just posted your first Topic. You’re on fire, {{currentUser}}"
     },
     "LIVE": {
       "HEAD_TITLE": "Live"
