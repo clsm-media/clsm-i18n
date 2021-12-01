@@ -175,7 +175,7 @@
     },
     "STREAM": {
       "HEAD_TITLE": "Conversation",
-      "TOPIC_HEADLINE": "Topic: {{currentTopic}}",
+      "TOPIC_HEADLINE": "Topic: {{currentTopicName}}",
       "REACT_LABEL": "React",
       "CLOSE_LABEL": "Close",
       "MUTED_LABEL": "Muted",
@@ -199,10 +199,23 @@
       "QUESTION_DRAWER_GUIDELINE_THREE":"Each conversation has a theme. Please stay on-topic.",
       "ISSUE_TEXT":"Let us know how we can help!",
       "ISSUE_TOAST_LOADING":"Your issue is being sent.",
-      "TOPIC_TOAST_EMPTY":  "Please enter a topic.",
       "ISSUE_TOAST_EMPTY":  "Please enter an issue.",
       "ISSUE_TOAST_ERROR": "Your issue has not been sent.",
-      "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully."
+      "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully.",
+      "TOPIC_TOAST_LOADING":"Your topic is being sent.",
+      "TOPIC_TOAST_EMPTY":  "Please enter a topic.",
+      "TOPIC_TOAST_ERROR": "Your topic has not been sent.",
+      "TOPIC_TOAST_SUCCES":"Your topic has been sent successfully.",
+      "GREEN_ROOM_TITLE": "Welcome to the conversation",
+      "GREEN_ROOM_CURRENT_TOPIC": "Current topic",
+      "GREEN_ROOM_WAIT":"The host has approved your request.",
+      "GREEN_ROOM_WAIT_SECOND":"Wait a few seconds until the host enables the microphone for you.",
+      "GREEN_ROOM_LEAVE":"Leave",
+      "GREEN_ROOM_MUTE_LABEL":"Mute",
+      "GREEN_ROOM_ACTIVE_LABEL":"Active",
+      "LEAVE_CONVERSATION_DRAWER_TITLE":"Leave the conversation",
+      "LEAVE_CONVERSATION_DRAWER_DESCRIPTION":"Are you sure you want to leave to the conversation?",
+      "LEAVE_CONVERSATION_DRAWER_BUTTON":"Confirm"
       
     },
     "LIVE": {
