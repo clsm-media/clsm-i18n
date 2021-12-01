@@ -65,9 +65,9 @@
         "RESET_PASSWORD_CTA": "Reset Password"
       },
       "TOAST": {
-        "RESET_PASSWORD_PROMISE": "Password is being updated",
-        "RESET_PASSWORD_SUCCESS": "Password has been updated successfully.",
-        "RESET_PASSWORD_ERROR": "Sorry! We could not update the password."
+        "RESET_PASSWORD_PROMISE": "Your Password is being changed.",
+        "RESET_PASSWORD_SUCCESS": "Your Password has been changed successfully.",
+        "RESET_PASSWORD_ERROR": "Your Password has not been changed."
       }
     },
     "CHANGE_PASSWORD": {
@@ -102,9 +102,9 @@
         "DELETE_ACCOUNT_CTA": "Delete",
         "DESCRIPTION": "Do you really want to delete your account? This process cannot be undone.",
         "TOAST": {
-          "DELETE_ACCOUNT_PROMISE": "Account is being deleted",
-          "DELETE_ACCOUNT_SUCCESS": "Account has been deleted successfully.",
-          "DELETE_ACCOUNT_ERROR": "Sorry! We could not delete the account."
+          "DELETE_ACCOUNT_PROMISE": "Your Account is being deleted.",
+          "DELETE_ACCOUNT_SUCCESS": "Your Account has been deleted successfully.",
+          "DELETE_ACCOUNT_ERROR": "Your Account has not been deleted."
         }
       },
       "TITLES": {
@@ -202,6 +202,7 @@
       "ISSUE_TOAST_EMPTY":  "Please enter an issue.",
       "ISSUE_TOAST_ERROR": "Your issue has not been sent.",
       "ISSUE_TOAST_SUCCES":"Your issue has been sent successfully.",
+      "POSTED_TOPIC": "You just posted your first Topic. You’re on fire, {{currentUser}}",
       "TOPIC_TOAST_LOADING":"Your topic is being sent.",
       "TOPIC_TOAST_EMPTY":  "Please enter a topic.",
       "TOPIC_TOAST_ERROR": "Your topic has not been sent.",
@@ -216,7 +217,7 @@
       "LEAVE_CONVERSATION_DRAWER_TITLE":"Leave the conversation",
       "LEAVE_CONVERSATION_DRAWER_DESCRIPTION":"Are you sure you want to leave to the conversation?",
       "LEAVE_CONVERSATION_DRAWER_BUTTON":"Confirm"
-      
+
     },
     "LIVE": {
       "HEAD_TITLE": "Live"
