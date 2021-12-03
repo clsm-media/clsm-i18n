@@ -216,7 +216,8 @@
       "GREEN_ROOM_ACTIVE_LABEL":"Active",
       "LEAVE_CONVERSATION_DRAWER_TITLE":"Leave the conversation",
       "LEAVE_CONVERSATION_DRAWER_DESCRIPTION":"Are you sure you want to leave to the conversation?",
-      "LEAVE_CONVERSATION_DRAWER_BUTTON":"Confirm"
+      "LEAVE_CONVERSATION_DRAWER_BUTTON":"Confirm",
+      "ERROR_RAISING_HAND":"Sorry, we could not raise your hand."
 
     },
     "LIVE": {
