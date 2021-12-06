@@ -252,7 +252,7 @@
         "NAME": "Presented by {{name}}"
       },
       "FANS": {
-        "FANS": "fans",
+        "FANS": "{{count}} fans",
         "PEOPLE_INTERESTED": "people interested"
       },
       "BUTTONS": {
