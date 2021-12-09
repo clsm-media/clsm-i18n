@@ -221,7 +221,8 @@
 
     },
     "LIVE": {
-      "HEAD_TITLE": "Live"
+      "HEAD_TITLE": "Live",
+      "REACTIONS_GRAPH_TITLE": "Fans and reactions"
     },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
@@ -369,6 +370,14 @@
     "SEARCH_LIST": {
       "ALL": "All",
       "FAVORITES": "Favorites"
+    },
+    "LIVE_DASHBOARD": {
+      "TOPICS": {
+        "TOPIC_DESCRIPTION": {
+          "LIVE_LABEL": "LIVE",
+          "NEXT_LABEL": "NEXT"
+        }
+      }
     }
   },
   "ERRORS": {
