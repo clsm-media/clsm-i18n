@@ -378,6 +378,10 @@
           "NEXT_LABEL": "NEXT"
         }
       }
+    },
+    "SPEAKER_CARD": {
+      "HOST_DESCRIPTION": "Host",
+      "PRODUCER_DESCRIPTION": "Producer"
     }
   },
   "ERRORS": {
