@@ -222,7 +222,8 @@
     },
     "LIVE": {
       "HEAD_TITLE": "Live",
-      "REACTIONS_GRAPH_TITLE": "Fans and reactions"
+      "REACTIONS_GRAPH_TITLE": "Fans and reactions",
+      "TOPICS_TITLE": "Topics"
     },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
@@ -375,13 +376,40 @@
       "TOPICS": {
         "TOPIC_DESCRIPTION": {
           "LIVE_LABEL": "LIVE",
-          "NEXT_LABEL": "NEXT"
+          "NEXT_LABEL": "NEXT",
+          "VOTES": "{{count}} votes",
+          "LIVE": "Go Live"
+
+        },
+        "FILTERS": {
+          "DROPDOWN": {
+            "POPULAR_LABEL": "Popular",
+            "NEWEST_LABEL": "Newest"
+          },
+          "HIDE_COVERED_TOPICS": "Hide covered topics",
+          "ADD_TOPIC_BUTTON": "Add Topic"
+        }
+      },
+      "GUEST_SPEAKERS": {
+        "FILTERS": {
+          "PREVIOUS_GUEST_SPEAKERS": "Previous guest speakers"
         }
       }
     },
     "SPEAKER_CARD": {
       "HOST_DESCRIPTION": "Host",
-      "PRODUCER_DESCRIPTION": "Producer"
+      "PRODUCER_DESCRIPTION": "Producer",
+      "GUESTS_SPEAKING_TITLE": "Guest speaker",
+      "GUEST_UPCOMING_TITLE": "Upcoming"
+
+    },
+    "DRAWER": {
+      "MOVE_FAN_DRAWER": {
+        "TITLE": "Where do you want to move the fan?",
+        "MOVE_BUTTON_LABEL": "Move",
+        "UPCOMING_LABEL": "Upcoming",
+        "SPEAKER_LABEL": "Speaker"
+      }
     }
   },
   "ERRORS": {
