@@ -342,8 +342,8 @@
       "ACTIVITY_LABEL": "Activity",
       "ROOM_INFO_LABEL": "Room info",
       "TOPIC_CARD": {
-        "VOTE_SINGULAR_LABEL": "Vote",
-        "VOTE_PLURAL_LABEL": "Votes",
+        "VOTE_LABEL": "Vote",
+        "VOTE_LABEL_plural": "Votes",
         "NO_RESULTS": "No Results."
       }
     },
