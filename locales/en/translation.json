@@ -377,6 +377,12 @@
       "FAVORITES": "Favorites"
     },
     "LIVE_DASHBOARD": {
+      "TOP_HEADER": {
+        "END_CONVERSATION_BUTTON": "End Conversation",
+        "CONFIRMATION_DRAWER_TITLE": "Confirm end conversation",
+        "CONFIRMATION_DRAWER_SUBTITLE": "Are you sure you want to end the conversation?",
+        "CONFIRMATION_DRAWER_BUTTON": "Finalize"
+      },
       "TOPICS": {
         "TOPIC_DESCRIPTION": {
           "LIVE_LABEL": "LIVE",
