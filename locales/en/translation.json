@@ -404,7 +404,7 @@
             "POPULAR_LABEL": "Popular",
             "NEWEST_LABEL": "Newest"
           },
-          "HIDE_COVERED_TOPICS": "Hide covered topics",
+          "HIDE_COVERED_TOPICS": "Show completed topics",
           "ADD_TOPIC_BUTTON": "Add Topic"
         }
       },
@@ -418,7 +418,8 @@
       "HOST_DESCRIPTION": "Host",
       "PRODUCER_DESCRIPTION": "Producer",
       "GUESTS_SPEAKING_TITLE": "Guest speaker",
-      "GUEST_UPCOMING_TITLE": "Upcoming"
+      "GUEST_UPCOMING_TITLE": "Upcoming",
+      "YOU_DESCRIPTION": "You"
 
     },
     "DRAWER": {
@@ -428,6 +429,13 @@
         "UPCOMING_LABEL": "Upcoming",
         "SPEAKER_LABEL": "Speaker"
       }
+    },
+    "PROFILE_INFO": {
+      "FOLLOWERS_TITLE": "Followers",
+      "FOLLOWING_TITLE": "Following",
+      "FOLLOW_CTA": "Follow",
+      "BIO_TITLE": "Bio",
+      "INTERESTS":"Interests"
     }
   },
   "ERRORS": {
