@@ -406,6 +406,13 @@
           },
           "HIDE_COVERED_TOPICS": "Show completed topics",
           "ADD_TOPIC_BUTTON": "Add Topic"
+        },
+        "ADD_TOPIC_DRAWER": {
+          "TITLE": "Topics",
+          "SUBTITLE": "reate topics for the current conversation",
+          "NAME_LABEL": "Create a Topic",
+          "NAME_PLACEHOLDER": "Topic name",
+          "CREATE_BUTTON": "Create"
         }
       },
       "GUEST_SPEAKERS": {
@@ -486,6 +493,10 @@
     "EDIT_PROFILE": {
       "FIRST_NAME_REQUIRED": "First name is required",
       "LAST_NAME_REQUIRED": "Last name is required"
+    },
+    "ADD_TOPIC_FORM": {
+      "NAME_REQUIRED": "Name is required",
+      "NAME_TOO_LONG": "Name is too long"
     }
   }
 }
