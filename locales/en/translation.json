@@ -234,6 +234,10 @@
       "TABS": {
         "FOLLOWERS": "{{amount}} Followers",
         "FOLLOWINGS": "{{amount}} Following"
+      },
+      "TABS_NEW_VERSION": {
+        "FOLLOWERS": "Followers",
+        "FOLLOWING": "Following"
       }
     }
   },
@@ -352,6 +356,10 @@
       "FOLLOWERS_LABEL": "Followers",
       "FOLLOW_CTA": "Follow",
       "UNFOLLOW_CTA": "Following"
+    },
+    "FOLLOWS_BANNER_NEW_VERSION": {
+      "FOLLOWINGS_LABEL": "Following",
+      "FOLLOWERS_LABEL": "Followers"
     },
     "CONVERSATION_DETAILS_BOTTOM_DRAWER": {
       "HOSTS_LABEL": "Hosts",
