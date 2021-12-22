@@ -7,7 +7,11 @@
         "LIVE": "Live",
         "LIVE_UPCOMING": "Live / Upcoming",
         "COMPLETED": "Completed"
-      }
+      },
+      "JOIN_THE_CONVERSATION": "Join the conversation",
+      "JOIN_THE_CONVERSATION_DESCRIPTION": "To join the conversation ",
+      "JOIN_THE_CONVERSATION_DESCRIPTION_TWO": ", you will need to use the Coliseum app on a desktop computer.",
+      "JOIN_THE_CONVERSATION_BUTTON": "Open desktop app"
     },
     "WELCOME": {
       "HEAD_TITLE": "Welcome",
