@@ -163,7 +163,11 @@
       "QUESTION_LABEL": "Question",
       "TOPIC_LABEL": "Topic",
       "ISSUE_LABEL": "Issue",
-      "SHARE_LINK": "Im listening {{link}}"
+      "SHARE_LINK": "Im listening {{link}}",
+      "TOAST": {
+        "MICROPHONE_DENIED": "Enable microphone permission to raise your hand.",
+        "SETTINGS": "Settings"
+      }
     },
     "FOLLOW": {
       "SEARCH_PLACEHOLDER": "Search",
