@@ -357,7 +357,8 @@
       "TOPIC_CARD": {
         "VOTE_LABEL": "Vote",
         "VOTE_LABEL_plural": "Votes",
-        "NO_RESULTS": "No Results."
+        "NO_RESULTS": "No Results.",
+        "VOTE_SINGULAR_LABEL": "Vote"
       }
     },
     "FOLLOWS_BANNER": {
