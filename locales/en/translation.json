@@ -248,6 +248,13 @@
         "FOLLOWERS": "Followers",
         "FOLLOWING": "Following"
       }
+    },
+    "PRIVACY_TERMS": {
+      "HEAD_TITLE": "Privacy terms",
+      "TABS": {
+        "PRIVACY_POLICY": "Privacy policy",
+        "TERMS_CONDITION": "Terms & conditions"
+      }
     }
   },
   "COMPONENTS": {
@@ -312,6 +319,9 @@
       "CONFIRMATION_DRAWER": {
         "TITLE": "Check your email",
         "DESCRIPTION": "We have sent account verification instructions to your email"
+      },
+      "PRIVACY_TERMS": {
+        "LINK": "Privacy policy / Terms & conditions"
       }
     },
     "SIGN_IN_FLOW": {
@@ -330,6 +340,9 @@
         "FORGOT_PASSWORD_LABEL": "Forgot Password?",
         "APPLE_LABEL": "Apple ID",
         "GOOGLE_LABEL": "Google"
+      },
+      "PRIVACY_TERMS": {
+        "LINK": "Privacy policy / Terms & conditions"
       }
     },
     "CAMERA_MODAL": {
