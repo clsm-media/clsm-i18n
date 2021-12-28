@@ -229,6 +229,8 @@
       "CLOSED_CAPTION_LABEL":"Closed caption",
       "CLOSED_CAPTION_TEXT":"Select the language you would like to hear the conversation in.",
       "CLOSED_CAPTION_APPLY_BUTTON":"Apply",
+      "CLOSED_CAPTION_IS_ON": "Closed Caption is now on.",
+      "CLOSED_CAPTION_IS_OFF": "Closed caption is now off.",
       "ENABLE_MICROPHONE_TOAST_TEXT":"Enable microphone permission to raise your hand",
       "ENABLE_MICROPHONE_TOAST_ACTION":"Settings",
       "QUESTION_CANCEL_LABEL": "Cancel"
