@@ -257,6 +257,14 @@
         "PRIVACY_POLICY": "Privacy policy",
         "TERMS_CONDITION": "Terms & conditions"
       }
+    },
+    "EXIT_STREAM": {
+      "TITLE":"Thanks for joining!",
+      "CONVERSATION_HAS_FINISHED": "<p>The conversation</p><p><b>{{title}}</b></p><p>has finished.</p>",
+      "REACTIONS": "Reactions",
+      "REPLAY": "Replay",
+      "GO_HOME_SCREEN": "Go to Home Screen",
+      "FANS_AMMOUNT": "{{fansAmount}} fans"
     }
   },
   "COMPONENTS": {
