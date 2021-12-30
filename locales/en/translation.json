@@ -267,6 +267,12 @@
       "REPLAY": "Replay",
       "GO_HOME_SCREEN": "Go to Home Screen",
       "FANS_AMMOUNT": "{{fansAmount}} fans"
+    },
+    "COMMUNITY_GUIDELINES": {
+      "HEAD_TITLE": "Community guidelines",
+      "GUIDELINE_ONE":"Be respectful to others.",
+      "GUIDELINE_TWO":"Remember everyone has the right to have their own opinion.",
+      "GUIDELINE_THREE":"Each conversation has a theme. Please stay on-topic."
     }
   },
   "COMPONENTS": {
