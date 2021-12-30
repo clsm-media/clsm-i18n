@@ -261,6 +261,8 @@
     "EXIT_STREAM": {
       "TITLE":"Thanks for joining!",
       "CONVERSATION_HAS_FINISHED": "<p>The conversation</p><p><b>{{title}}</b></p><p>has finished.</p>",
+      "THE_CONVERSATION": "The conversation",
+      "HAS_FINISHED": "has finished.",
       "REACTIONS": "Reactions",
       "REPLAY": "Replay",
       "GO_HOME_SCREEN": "Go to Home Screen",
