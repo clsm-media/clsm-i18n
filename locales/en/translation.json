@@ -459,7 +459,10 @@
         "TITLE": "Where do you want to move the fan?",
         "MOVE_BUTTON_LABEL": "Move",
         "UPCOMING_LABEL": "Upcoming",
-        "SPEAKER_LABEL": "Speaker"
+        "SPEAKER_LABEL": "Speaker",
+        "ERRORS": {
+          "REACHED_MAX_NUMBER_OF_GUESTS": "Maximum number of guests reached"
+        }
       }
     },
     "PROFILE_INFO": {
