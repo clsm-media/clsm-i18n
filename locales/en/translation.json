@@ -332,7 +332,8 @@
         "SIGN_UP_SUCCESS": "Account has been created successfully",
         "SIGN_UP_ERROR": "Sorry! We could not create the account",
         "SIGN_UP_ERROR_USER_EXISTS": "It seems that this email account has already been registered",
-        "VERIFICATION_ERROR": "It seems that this email has already been verified"
+        "VERIFICATION_ERROR": "It seems that this email has already been verified",
+        "INVALID_ACCESS_CODE":"Sorry! We could not create the account. Invalid access code."
       },
       "CONFIRMATION_DRAWER": {
         "TITLE": "Check your email",
@@ -340,7 +341,8 @@
       },
       "PRIVACY_TERMS": {
         "LINK": "Privacy policy / Terms & conditions"
-      }
+      },
+      "INVITATION_CODE_DRAWER_TITLE": "Enter the invitation code that you have been provided to register in the app.",
     },
     "SIGN_IN_FLOW": {
       "OR": "or",
@@ -361,6 +363,10 @@
       },
       "PRIVACY_TERMS": {
         "LINK": "Privacy policy / Terms & conditions"
+      },
+      "INVITATION_CODE_DRAWER_TITLE": "Enter the invitation code that you have been provided to register in the app.",
+      "TOAST": {
+        "INVALID_ACCESS_CODE": "Sorry! We could not create the account. Invalid access code."
       }
     },
     "CAMERA_MODAL": {
