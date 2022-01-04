@@ -461,7 +461,8 @@
         "UPCOMING_LABEL": "Upcoming",
         "SPEAKER_LABEL": "Speaker",
         "ERRORS": {
-          "REACHED_MAX_NUMBER_OF_GUESTS": "Maximum number of guests reached"
+          "USER_NOT_HOST_OR_PRODUCER": "The admin must be a host",
+          "REACHED_MAX_NUMBER_OF_GUESTS": "There may be a maximum of 3 guest speakers"
         }
       }
     },
