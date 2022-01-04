@@ -196,6 +196,7 @@
       "WAITING_FOR_GREEN_ROOM":"Waiting for the host to approve your request",
       "TOPIC_TEXT_SECOND":"community guidlines.",
       "IS_SPEAKING":"is speaking",
+      "NOBODY": "Nobody",
       "QUESTION_DRAWER_TITLE":"The host has invited you to join the conversation.",
       "QUESTION_DRAWER_DESCRIPTION":"Please be mindful of our community guidelines:",
       "QUESTION_DRAWER_BUTTON":"I agree",
