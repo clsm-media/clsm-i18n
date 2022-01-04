@@ -475,7 +475,11 @@
         "TITLE": "Where do you want to move the fan?",
         "MOVE_BUTTON_LABEL": "Move",
         "UPCOMING_LABEL": "Upcoming",
-        "SPEAKER_LABEL": "Speaker"
+        "SPEAKER_LABEL": "Speaker",
+        "ERRORS": {
+          "USER_NOT_HOST_OR_PRODUCER": "The admin must be a host",
+          "REACHED_MAX_NUMBER_OF_GUESTS": "There may be a maximum of 3 guest speakers"
+        }
       }
     },
     "PROFILE_INFO": {
