@@ -221,7 +221,7 @@
       "GREEN_ROOM_MUTE_LABEL":"Mute",
       "GREEN_ROOM_ACTIVE_LABEL":"Active",
       "USER_AGENT_BLOCK_CONFIRMATION_TITLE":"Welcome!",
-      "USER_AGENT_BLOCK_CONFIRMATION_DESCRIPTION":"The conversation is live, you can start listening by clicking the button.",
+      "USER_AGENT_BLOCK_CONFIRMATION_DESCRIPTION":"Your conversation is now live!",
       "USER_AGENT_BLOCK_CONFIRMATION_CTA":"Join",
       "LEAVE_CONVERSATION_DRAWER_TITLE":"Return to conversation",
       "LEAVE_CONVERSATION_DRAWER_DESCRIPTION":"Are you sure you want to leave to the conversation?",
