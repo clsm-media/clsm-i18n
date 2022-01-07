@@ -471,6 +471,14 @@
         "FILTERS": {
           "PREVIOUS_GUEST_SPEAKERS": "Previous guest speakers"
         }
+      },
+      "COMMON": {
+        "UNAUTHORIZED_ACCESS": "Unauthorized!"
+      },
+      "JOIN_FLOW": {
+        "TITLE": "Welcome!",
+        "DESCRIPTION": "Your conversation is now live!",
+        "CTA": "Join"
       }
     },
     "SPEAKER_CARD": {
