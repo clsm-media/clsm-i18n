@@ -497,6 +497,7 @@
       "FOLLOWERS_TITLE": "Followers",
       "FOLLOWING_TITLE": "Following",
       "FOLLOW_CTA": "Follow",
+      "UNFOLLOW_CTA": "Unfollow",
       "BIO_TITLE": "Bio",
       "INTERESTS":"Interests"
     },
