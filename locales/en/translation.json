@@ -451,7 +451,8 @@
           "NEXT_LABEL": "NEXT",
           "VOTES": "{{count}} votes",
           "LIVE": "Go Live",
-          "LIVE_TAG_LABEL": "LIVE"
+          "LIVE_TAG_LABEL": "LIVE",
+          "COMPLETED_TAG_LABEL": "COMPLETED"
         },
         "FILTERS": {
           "DROPDOWN": {
