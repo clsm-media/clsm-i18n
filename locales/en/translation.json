@@ -241,7 +241,9 @@
       "QUESTION_CANCEL_LABEL": "Cancel"
     },
     "LIVE": {
-      "HEAD_TITLE": "Live",
+      "HEAD_TITLE_UPCOMING": "Upcoming",
+      "HEAD_TITLE_LIVE": "Live",
+      "HEAD_TITLE_COMPLETED": "Completed",
       "REACTIONS_GRAPH_TITLE": "Fans and reactions",
       "TOPICS_TITLE": "Topics"
     },
