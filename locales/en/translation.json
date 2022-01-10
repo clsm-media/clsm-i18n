@@ -488,7 +488,9 @@
       "PRODUCER_DESCRIPTION": "Producer",
       "GUESTS_SPEAKING_TITLE": "Guest speaker",
       "GUEST_UPCOMING_TITLE": "Upcoming",
-      "YOU_DESCRIPTION": "You"
+      "YOU_DESCRIPTION": "You",
+      "FOLLOW_CTA": "Follow",
+      "UNFOLLOW_CTA": "Following"
 
     },
     "DRAWER": {
