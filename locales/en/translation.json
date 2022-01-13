@@ -468,6 +468,10 @@
           "NAME_LABEL": "Create a Topic",
           "NAME_PLACEHOLDER": "Topic name",
           "CREATE_BUTTON": "Create"
+        },
+        "MOVE_TO_QUEUE_DRAWER": {
+          "TITLE": "Do you want to move the topic to the queue?",
+          "MOVE_BUTTON_LABEL": "Move"
         }
       },
       "GUEST_SPEAKERS": {
