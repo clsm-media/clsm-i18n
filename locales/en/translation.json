@@ -464,7 +464,7 @@
         },
         "ADD_TOPIC_DRAWER": {
           "TITLE": "Topics",
-          "SUBTITLE": "reate topics for the current conversation",
+          "SUBTITLE": "Create topics for the current conversation",
           "NAME_LABEL": "Create a Topic",
           "NAME_PLACEHOLDER": "Topic name",
           "CREATE_BUTTON": "Create"
