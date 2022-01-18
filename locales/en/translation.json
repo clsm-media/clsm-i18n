@@ -281,6 +281,15 @@
       "GUIDELINE_ONE":"Be respectful to others.",
       "GUIDELINE_TWO":"Remember everyone has the right to have their own opinion.",
       "GUIDELINE_THREE":"Each conversation has a theme. Please stay on-topic."
+    },
+    "LIVE_EXIT_STREAM": {
+      "TITLE":"Thank you for participating in this conversation!",
+      "CURRENT_USER_FINISHED_CONVERSATION": "You have ended the conversation",
+      "OTHER_USER_FINISHED_CONVERSATION_TOP": "The conversation",
+      "OTHER_USER_FINISHED_CONVERSATION_BOTTOM": "has been stopped by {{userName}}",
+      "REACTIONS": "Fans reactions",
+      "GO_HOST_VIEW": "Go to Host view",
+      "FANS_AMMOUNT": "{{fansAmount}} fans"
     }
   },
   "COMPONENTS": {
