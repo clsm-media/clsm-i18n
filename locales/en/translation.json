@@ -526,7 +526,8 @@
       "FACEBOOK": "Facbook",
       "TWITTER": "Twitter",
       "WHATSAPP": "Whatsapp",
-      "COPY": "Copy"
+      "COPY": "Copy",
+      "COPIED": "Copied!"
     }
   },
   "ERRORS": {
