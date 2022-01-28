@@ -239,7 +239,10 @@
       "ENABLE_MICROPHONE_TOAST_TEXT":"Enable microphone permission to raise your hand",
       "ENABLE_MICROPHONE_TOAST_TEXT_NO_GUEST":"Enable microphone permission to accept the host invitation",
       "ENABLE_MICROPHONE_TOAST_ACTION":"Settings",
-      "QUESTION_CANCEL_LABEL": "Cancel"
+      "QUESTION_CANCEL_LABEL": "Cancel",
+      "WAIT_URL_TITLE_LABEL": "Welcome to the completed conversation",
+      "WAIT_URL_WAIT_LABEL": "Wait a few seconds until the audio is generated.",
+      "WAIT_URL_SPONSOR_LABEL": "Sponsored by"
     },
     "LIVE": {
       "HEAD_TITLE_UPCOMING": "Upcoming",
