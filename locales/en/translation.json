@@ -16,6 +16,7 @@
     "WELCOME": {
       "HEAD_TITLE": "Welcome",
       "WELCOME_TEXT": "Talk & Listen motorsports together, anywhere.",
+      "WELCOME_TEXT_ALTERNATIVE": "Talk motorsports together.",
       "ACTIONS": {
         "SIGN_UP": "Sign Up",
         "SIGN_IN": "Sign In"
