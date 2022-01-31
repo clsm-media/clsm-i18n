@@ -242,7 +242,8 @@
       "QUESTION_CANCEL_LABEL": "Cancel",
       "WAIT_URL_TITLE_LABEL": "Welcome to the completed conversation",
       "WAIT_URL_WAIT_LABEL": "Wait a few seconds until the audio is generated.",
-      "WAIT_URL_SPONSOR_LABEL": "Sponsored by"
+      "WAIT_URL_SPONSOR_LABEL": "Sponsored by",
+      "AUDIO_CREATED": "Audio is now available!"
     },
     "LIVE": {
       "HEAD_TITLE_UPCOMING": "Upcoming",
