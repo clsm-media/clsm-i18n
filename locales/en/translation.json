@@ -522,7 +522,7 @@
         "SPEAKER_LABEL": "Speaker",
         "ERRORS": {
           "USER_NOT_HOST_OR_PRODUCER": "The admin must be a host",
-          "REACHED_MAX_NUMBER_OF_GUESTS": "There may be a maximum of 3 guest speakers"
+          "REACHED_MAX_NUMBER_OF_GUESTS": "Sorry. You reached the max amount of guest speakers"
         }
       }
     },
